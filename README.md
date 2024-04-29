@@ -1,4 +1,7 @@
-# Data Scientist
+# <span style="color: royalblue;">Data Scientist | Data Analyst</span>
+Welcome to my page!
+
+
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
